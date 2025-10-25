@@ -1,4 +1,4 @@
 package info.onofreiflavius.bookapp;
 
-public class TableOfContents {
+public class BooksController {
 }
