@@ -1,0 +1,14 @@
+Invat Spring Boot, iar acesta este proiectul la care lucrez acum. O sa vreau sa folosesc acest sistem la proiectele viitoare, de aceea vreau sa ma concentrez pe el si sa il prezint la aceasta disciplina.
+
+PROIECT=Sistem de autentificare & autorizare, cu urmatoarele functionalitati:
+    -create account
+    -access account
+    -create session
+    -create security request (pentru schimb de parole, verificare de e-mail, acceptare sesiune)
+    -create authentication session
+    -update password
+    -add & verify e-mail
+    -delete account
+    -destroy session (for session management)
+    -e-mail notifications
+    -etc.
